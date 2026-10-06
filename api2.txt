@@ -1,1 +1,2 @@
 fetch some api file it goes remote repo to --> local repo
+adding some new line to pussh new line after pull sucesfully
