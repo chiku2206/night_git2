@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line from main git cherry pick conflicts
+=======
+differnt line on feature-api branch
+>>>>>>> edfef1d (diifernet line add 2nd commit nFA branch)
